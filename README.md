@@ -1,4 +1,6 @@
 This is a [React.js] project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+![Screenshot (12)](https://github.com/Arshad-ashuu/weather-app/assets/111066886/e43e4c7a-f47d-49ac-9bf3-7869c4c8b4a2)
+
 
 ## Getting Started
 
